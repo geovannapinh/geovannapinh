@@ -10,7 +10,6 @@
 
 <div align="center"
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=geovannapinh&theme=midnight-purple&hide_border=true&border_radius=5&locale=pt_BR&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
 
 </div>
 
@@ -95,9 +94,7 @@
 <br>
 <br>
 <br>
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fgeovannapinh&s=50&c=8416df&bg=00000000&no=5&ff=digi&tb=Visitors%3A+&ta=" alt="visits"" /></p> 
+
 <br>
 </div>
 
